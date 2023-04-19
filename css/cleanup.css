@@ -1,1 +1,24 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+div#wall div {
+    display: none;
+}
+
+div#tag-2 ~ div {
+    display: none;
+}
+
+div#wall #tag-3.slick div[title="Yes"] {
+    display: none;
+}
+div#wall #tag-3.slick div[title="Yes"] {
+    display: none;
+}
+div#wall #tag-3.slick div[title="Yes"] {
+    display: none;
+}
+div#wall #tag-3.slick div[title="Yes"] {
+    display: none;
+}
